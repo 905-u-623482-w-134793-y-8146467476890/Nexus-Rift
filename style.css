@@ -1,0 +1,48 @@
+html{
+    background-color: rgb(17, 8, 27);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(138, 107, 107);
+}
+a {
+    color: rgba(137, 120, 120, 0.6);
+}
+p {
+    text-size-adjust: 50px;
+}
+.text{
+    text-align: center;
+    color: rgb(75, 71, 172);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.inline{
+display: inline-block;
+}
+.custom-card-bg{
+    background-color: rgb(24, 24, 24);
+}
+.custom-card-bg1{
+    background-color: rgb(120, 255, 135);
+}
+.custom-card-bg2{
+    background-color: rgb(57, 57, 57);
+}
+.custom-card-bg3{
+    background-color: rgb(215, 255, 224);
+}
+iframe{
+    width: 75%;
+    height: 800px;
+  
+ 
+}
+* {
+    font-family: MyFont;
+}
+    @font-face {
+      font-family: 'MyFont'; /* Give your font a name */
+      src: url('PANICKO.ttf');
+    }
